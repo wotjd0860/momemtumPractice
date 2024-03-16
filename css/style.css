@@ -1,0 +1,12 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.hidden {
+    display: none;
+}
+
+#clock {
+    font-size: 5rem;
+}
